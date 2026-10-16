@@ -14,7 +14,7 @@ A desktop app to merge, compress, split, organize, and compare PDFs locally. Doc
 
 ### Inventory planning for Chick-fil-A North Barrie
 
-I built a **MERN stack** application that used sales data to estimate daily chicken pulls, replacing fixed quantities on a printed sheet. We later expanded it to tomato and lettuce pans and 12-quart lemonade buckets. [Read the case study](case-studies/chick-fil-a-inventory.md).
+I built a **MERN stack** application that used sales data to estimate daily chicken pulls, replacing fixed quantities on a printed sheet. We later expanded it to planning for produce and beverages. [Read the case study](case-studies/chick-fil-a-inventory.md).
 
 ### [Banking dashboard](https://github.com/el-jsn/jsm_banking)
 
