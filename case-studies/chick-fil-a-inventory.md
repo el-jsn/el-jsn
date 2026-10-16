@@ -2,6 +2,10 @@
 
 I built a web application that used the location's sales data to estimate daily chicken pull quantities. It started with one kitchen planning problem and later expanded to produce and beverages.
 
+![Weekly allocations dashboard showing chicken pull quantities by day](https://eljsn.vercel.app/project-inventory.png)
+
+*The allocations dashboard turns daily pull estimates into quantities the kitchen team can use.*
+
 ## The problem
 
 We used a printed sheet with fixed numbers to decide how much frozen chicken to pull each day. Demand changed from week to week, but updating the sheet regularly was difficult.
