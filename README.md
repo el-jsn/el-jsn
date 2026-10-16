@@ -1,12 +1,16 @@
 # Jashanpreet Singh
 
-Software Developer at **Realtris Inc.**, working with **Next.js, Node.js, PostgreSQL, and Python**. Based in Canada.
+Software Developer at **Realtris Inc.** Based in Canada.
 
 I'm building an **AI home valuation model** for Realtris and built an **MLS-connected chatbot** to help users.
 
 [Portfolio](https://eljsn.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/eljsn/)
 
 ## Selected work
+
+### Realtris AI
+
+I built an MLS-connected real estate assistant end to end, with conversational property search and listing exploration. I also optimized database queries on production data, bringing most from over 500 ms to under 100 ms. [Read the case study](case-studies/realtris-ai.md) | [Try it](https://realtris.ca/ai).
 
 ### [PDF Tools](https://github.com/el-jsn/offline-pdf-tools)
 
