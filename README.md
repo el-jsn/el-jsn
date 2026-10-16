@@ -20,9 +20,6 @@ A desktop app to merge, compress, split, organize, and compare PDFs locally. Doc
 
 I built a **MERN stack** application that used sales data to estimate daily chicken pulls, replacing fixed quantities on a printed sheet. We later expanded it to planning for produce and beverages. [Read the case study](case-studies/chick-fil-a-inventory.md).
 
-### [Banking dashboard](https://github.com/el-jsn/jsm_banking)
-
-Linked accounts, transaction history, and transfers using **Next.js, TypeScript, Tailwind CSS, and Appwrite**, with Plaid and Dwolla integrations.
 
 ## Stack
 
