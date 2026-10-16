@@ -4,7 +4,7 @@ I designed and built Realtris AI end to end, from the chat interface and backend
 
 [Try Realtris AI](https://realtris.ca/ai)
 
-![Realtris AI demo showing a conversational property search and listing results](https://github.com/user-attachments/assets/e6464ec7-e195-4aed-8d76-2bab0a6dae5d)
+https://github.com/user-attachments/assets/f9a45f45-5495-4fda-9b36-23be649de664
 
 A short excerpt from the Realtris AI product demo.
 
