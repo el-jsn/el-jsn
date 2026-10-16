@@ -1,6 +1,6 @@
 # Inventory planning for Chick-fil-A North Barrie
 
-I built a web application that used the location's sales data to estimate daily chicken pull quantities. It started with one kitchen planning problem and later expanded to produce preparation and lemonade.
+I built a web application that used the location's sales data to estimate daily chicken pull quantities. It started with one kitchen planning problem and later expanded to produce and beverages.
 
 ## The problem
 
@@ -25,7 +25,7 @@ I developed the full-stack application using MongoDB, Express, React, and Node.j
 
 ## From chicken pulls to daily prep
 
-We eventually used the application to plan tomato and lettuce kanban pans, along with how many 12-quart lemonade buckets to prepare. It turned the same sales-based planning approach into targets for more of the kitchen's daily work.
+We eventually expanded the application to planning for produce and beverages. It turned the same sales-based approach into preparation targets for more of the kitchen's daily work.
 
 ## Outcome
 
