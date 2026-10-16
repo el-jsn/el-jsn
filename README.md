@@ -1,8 +1,8 @@
 # Jashanpreet Singh
 
-Software Developer at **Realtris Inc.**, building real estate applications with React, Node.js, and Azure. Based in Canada.
+Software Developer at **Realtris Inc.**, working with **Next.js, Node.js, PostgreSQL, and Python**. Based in Canada.
 
-I work across full-stack web development, databases, and desktop applications, with a focus on tools people use in their day-to-day work.
+I'm building an **AI home valuation model** for Realtris and built an **MLS-connected chatbot** to help users.
 
 [Portfolio](https://eljsn.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/eljsn/)
 
@@ -23,7 +23,7 @@ Linked accounts, transaction history, and transfers using **Next.js, TypeScript,
 ## Stack
 
 **Web:** TypeScript, JavaScript, React, Next.js, Node.js, Tailwind CSS  
-**Data & cloud:** PostgreSQL, MongoDB, Azure  
+**Data & AI:** PostgreSQL, MongoDB, Python  
 **Desktop:** Rust, Tauri
 
 ## Education & learning
