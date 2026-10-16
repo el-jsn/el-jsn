@@ -28,7 +28,7 @@ Linked accounts, transaction history, and transfers using **Next.js, TypeScript,
 
 ## Education & learning
 
-Computer Programming, **Georgian College** (2024). Dean's List.
+Computer Programming, **Georgian College** (2024).
 
 University of Michigan coursework in [Database Design and Basic SQL](https://www.coursera.org/account/accomplishments/verify/0EORDNVCMA1O), [Intermediate PostgreSQL](https://www.coursera.org/account/accomplishments/verify/ADON4NYUMPW0), and [JSON and Natural Language Processing in PostgreSQL](https://www.coursera.org/account/accomplishments/records/VD378MHKWUSE).
 
