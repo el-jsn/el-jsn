@@ -12,9 +12,9 @@ I work across full-stack web development, databases, and desktop applications, w
 
 A desktop app to merge, compress, split, organize, and compare PDFs locally. Documents stay on your computer. Built with **Tauri, Rust, and JavaScript**. [Download](https://github.com/el-jsn/offline-pdf-tools/releases/latest).
 
-### Inventory management for Chick-fil-A North Barrie
+### Inventory planning for Chick-fil-A North Barrie
 
-Built a **MERN stack** application with sales projections, inventory planning, and allocation dashboards for prep and beverage stations. Worked with the on-site team to refine tablet and mobile workflows, helping reduce monthly food waste by approximately **10%**. [Project story](https://www.linkedin.com/feed/update/urn:li:activity:7405063896476327936/).
+I built a **MERN stack** application that used sales data to estimate daily chicken pulls, replacing fixed quantities on a printed sheet. We later expanded it to tomato and lettuce pans and 12-quart lemonade buckets. [Read the case study](case-studies/chick-fil-a-inventory.md).
 
 ### [Banking dashboard](https://github.com/el-jsn/jsm_banking)
 
