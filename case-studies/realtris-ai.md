@@ -4,6 +4,10 @@ I designed and built Realtris AI end to end, from the chat interface and backend
 
 [Try Realtris AI](https://realtris.ca/ai)
 
+![Realtris AI demo showing a conversational property search and listing results](https://github.com/user-attachments/assets/e6464ec7-e195-4aed-8d76-2bab0a6dae5d)
+
+A short excerpt from the Realtris AI product demo.
+
 ## The problem
 
 A property search rarely ends with the first set of results. Someone might change their budget, narrow the location, or ask about a home they saw earlier. I needed the assistant to carry that context through the conversation while working with detailed listing information.
