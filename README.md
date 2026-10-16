@@ -2,7 +2,7 @@
 
 Software Developer at **Realtris Inc.** Based in Canada.
 
-I'm building an **AI home valuation model** for Realtris and built an **MLS-connected chatbot** to help users.
+I work on Realtris's live **AI home valuation system** and built its **MLS-connected chatbot**.
 
 [Portfolio](https://eljsn.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/eljsn/)
 
@@ -11,6 +11,10 @@ I'm building an **AI home valuation model** for Realtris and built an **MLS-conn
 ### Realtris AI
 
 I built an MLS-connected real estate assistant end to end, with conversational property search and listing exploration. I also optimized database queries on production data, bringing most from over 500 ms to under 100 ms. [Read the case study](case-studies/realtris-ai.md) | [Try it](https://realtris.ca/ai).
+
+### Home valuation for Realtris
+
+I'm developing a live residential valuation system that returns estimates, value ranges, and supporting context, with review or referral when evidence is weak. The work includes historical evaluation and handling inconsistent property data. [Read the case study](case-studies/home-valuation.md) | [Try it](https://realtris.ca/whats-my-home-worth).
 
 ### [PDF Tools](https://github.com/el-jsn/offline-pdf-tools)
 
